@@ -18,5 +18,10 @@ The Dark and Light Themed Calculator is a modern web application that offers a s
 - **HTML:** Structure of the application
 - **CSS:** Styling and theming
 - **JavaScript:** Functionality and interactivity
+  
+### Installation
 
+1. Clone the repository:
+   ```bash
+   
 
