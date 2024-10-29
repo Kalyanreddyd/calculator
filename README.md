@@ -23,5 +23,6 @@ The Dark and Light Themed Calculator is a modern web application that offers a s
 
 1. Clone the repository:
    ```bash
+   https://github.com/Kalyanreddyd/calculator.git
    
 
